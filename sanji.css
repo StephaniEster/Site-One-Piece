@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://static.displate.com/280x392/displate/2019-12-10/15bd3ec639aae3649e551dac29cc3c6b_194206dfc63c8faa4ad92fb986525af1.jpg);
+}
+p{
+ font-family: cursive;
+ font-size: 20px;
+}
+.tudo{
+margin: auto;
+width: 960px;
+background-image: url(https://i.pinimg.com/originals/3a/3a/0e/3a3a0ec6e6431cb5e62a0542bb5c5db8.jpg);
+}
+.sanjisite{
+    display: table;
+}
+.image{
+    display: table-cell;
+    float: left;
+}
+.text{
+    display: table-cell;
+    float: left;
+}

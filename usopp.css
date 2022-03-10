@@ -1,0 +1,23 @@
+body{
+background-image: url(http://pm1.narvii.com/6706/56cad5537f16368e39bb5ec131ffb961138d5ba2_00.jpg);
+}
+p{
+    font-family: cursive;
+    font-size: 20px;
+}
+.tudo{
+    margin: auto;
+    width: 960px;
+    background-image: url(https://i.pinimg.com/originals/3a/3a/0e/3a3a0ec6e6431cb5e62a0542bb5c5db8.jpg);
+}
+.usoppsite{
+    display: table;
+}
+.image{
+  display: table-cell;
+  float: left;
+}
+.text{
+    display: table-cell;
+    float: left;
+}

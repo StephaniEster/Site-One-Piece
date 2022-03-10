@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/fb/0d/7e/fb0d7ea97242f26562f5e3e48fd944dc.jpg);
+    background-repeat: repeat;
+}
+h3{
+    color: rgb(110, 62, 8);
+}
+p{
+    size-adjust: 15px;
+}
+.corpo{
+    margin: auto;
+    width: 960px;
+    background-image: url(https://i.pinimg.com/originals/3a/3a/0e/3a3a0ec6e6431cb5e62a0542bb5c5db8.jpg);
+}
+.site{
+    display: table;
+}
+.imagem{
+    display: table-cell;
+    float: left;
+}
+.texto{
+    display: table-cell;
+    float: left;
+    
+}
